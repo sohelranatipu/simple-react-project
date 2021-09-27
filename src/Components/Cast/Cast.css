@@ -1,0 +1,17 @@
+.cast{
+    background-color: lightgreen;
+    padding: 15px;
+}
+.cast img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.cast button{
+    background-color: lightseagreen;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid gray;
+}
